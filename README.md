@@ -1,2 +1,2 @@
-# ChatGPT-custom-instruction-
-personal experiments on ChatGPT custom instruction 
+# ChatGPT-custom-instruction
+Personal experiments on ChatGPT custom instruction 
